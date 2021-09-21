@@ -1,0 +1,47 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: IdleLandmark Tycoon.apk
+compressionType: false
+doNotCompress:
+- resources.arsc
+- META-INF/android.arch.lifecycle_runtime.version
+- META-INF/com.android.support_animated-vector-drawable.version
+- META-INF/com.android.support_appcompat-v7.version
+- META-INF/com.android.support_cardview-v7.version
+- META-INF/com.android.support_customtabs.version
+- META-INF/com.android.support_support-compat.version
+- META-INF/com.android.support_support-core-ui.version
+- META-INF/com.android.support_support-core-utils.version
+- META-INF/com.android.support_support-fragment.version
+- META-INF/com.android.support_support-media-compat.version
+- META-INF/com.android.support_support-v4.version
+- META-INF/com.android.support_support-vector-drawable.version
+- assets/bin/Data/0e53628f8fb5bdf44a53cc7cef976304.resource
+- assets/bin/Data/Managed/etc/mono/registry/last-btime
+- png
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '21'
+  targetSdkVersion: '28'
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+  play-services-ads-base.properties: '8'
+  play-services-ads-identifier.properties: '8'
+  play-services-ads-lite.properties: '8'
+  play-services-ads.properties: '8'
+  play-services-basement.properties: '8'
+  play-services-gass.properties: '8'
+  play-services-measurement-base.properties: '8'
+  play-services-measurement-sdk-api.properties: '8'
+  okhttp3/internal/publicsuffix/publicsuffixes.gz: '0'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: '@version@'
+versionInfo:
+  versionCode: '28'
+  versionName: '1.28'
